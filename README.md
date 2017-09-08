@@ -1,5 +1,7 @@
 # PingStream and PongStream
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/ping-pong-stream.svg)](https://greenkeeper.io/)
+
 Most transport streams (e.g. websockets) can detect when they close.
 
 Some can't (e.g. window.postMessage)! For those that can't, theres `ping-pong-stream`.
